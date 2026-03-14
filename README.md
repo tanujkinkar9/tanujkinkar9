@@ -4,7 +4,7 @@ I'm a third-year CS student from Nagpur, India.
 
 Experience:
 - C++ and DSA
-- HTML, CSS, JavaScript, TypeScript
+- HTML, CSS, JavaScript, TypeScript,Nodejs and React
 - Basic Python
 - version control tools
 
