@@ -1,6 +1,7 @@
 # Hi, I'm Tanuj Kinkar 👋
 
 I'm a third-year CS student from Nagpur, India.
+
 Experience:
 - C++ and DSA
 - HTML, CSS, JavaScript, TypeScript
