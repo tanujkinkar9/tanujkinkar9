@@ -6,7 +6,7 @@ Experience:
 - C++ and DSA
 - HTML, CSS, JavaScript, TypeScript,Nodejs and React
 - Basic Python
-- version control tools
+- Git,Github
 
 Currently contributing to [Zulip](https://github.com/zulip/zulip) 
 as part of my GSoC 2026 application.
